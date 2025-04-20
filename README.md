@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/YourImageHere.png" alt="SPU Checker Pro Logo" width="200"/>
+  <img src="https://files.catbox.moe/6hbaxk.webp" alt="SPU Checker Pro Logo" width="200"/>
 </p>
 
 ## ⚠️ DISCLAIMER
@@ -131,5 +131,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <sub>Created with ❤️ by OG Celestial</sub>
+  <sub>Created with ❤️ by Celestial</sub>
 </div>
