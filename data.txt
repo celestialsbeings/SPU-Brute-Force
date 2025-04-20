@@ -1,0 +1,10 @@
+test123:password123
+student456:pass456
+admin789:secure789
+user2024:spring2024
+teacher01:faculty123
+staff_user:staff2024
+test_admin:admin2024
+student2023:student2023
+exam_user:exam2024
+registrar:reg2024
